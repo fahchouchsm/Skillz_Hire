@@ -1,0 +1,874 @@
+[
+  {
+    "name": "Technologie de l'Information",
+    "description": "Inclut les services et les emplois liés à la technologie",
+    "subcategories": [
+      {
+        "name": "Développement Web",
+        "description": "Création de sites web et d'applications web"
+      },
+      {
+        "name": "Développement de Logiciels",
+        "description": "Développement d'applications logicielles"
+      },
+      {
+        "name": "Développement d'Applications Mobiles",
+        "description": "Création d'applications pour appareils mobiles"
+      },
+      {
+        "name": "Gestion de Bases de Données",
+        "description": "Gestion et optimisation des bases de données"
+      },
+      {
+        "name": "Administration Réseau",
+        "description": "Gestion et maintenance des réseaux informatiques"
+      },
+      {
+        "name": "Cybersécurité",
+        "description": "Protection des systèmes informatiques et des réseaux contre les attaques numériques"
+      },
+      {
+        "name": "Support Informatique",
+        "description": "Fourniture de support technique pour les problèmes matériels et logiciels"
+      },
+      {
+        "name": "Informatique en Nuage (Cloud Computing)",
+        "description": "Gestion et utilisation des services et infrastructures basés sur le cloud"
+      },
+      {
+        "name": "Conception UI/UX",
+        "description": "Conception d'interfaces utilisateur et d'expériences utilisateur"
+      },
+      {
+        "name": "DevOps",
+        "description": "Combinaison du développement et des opérations pour améliorer la collaboration et la productivité"
+      }
+    ]
+  },  
+  {
+    "name": "Construction et Amélioration de l'Habitat",
+    "description": "Comprend les services et métiers liés à la construction et à l'amélioration des habitations",
+    "subcategories": [
+      {
+        "name": "Construction de Maisons",
+        "description": "Construction de nouvelles habitations résidentielles"
+      },
+      {
+        "name": "Rénovation de Maisons",
+        "description": "Réhabilitation et rénovation de maisons existantes"
+      },
+      {
+        "name": "Travaux de Maçonnerie",
+        "description": "Travaux de construction impliquant la maçonnerie et les gros œuvres"
+      },
+      {
+        "name": "Plomberie",
+        "description": "Installation et réparation de systèmes de plomberie"
+      },
+      {
+        "name": "Électricité",
+        "description": "Installation et réparation de systèmes électriques"
+      },
+      {
+        "name": "Peinture et Décoration",
+        "description": "Services de peinture intérieure et extérieure, et décoration"
+      },
+      {
+        "name": "Menuiserie",
+        "description": "Fabrication et installation de menuiseries intérieures et extérieures"
+      },
+      {
+        "name": "Revêtements de Sol",
+        "description": "Installation de revêtements de sol tels que carrelage, parquet, et moquette"
+      },
+      {
+        "name": "Aménagement Paysager",
+        "description": "Conception et entretien d'espaces paysagers"
+      },
+      {
+        "name": "Isolation",
+        "description": "Isolation thermique et acoustique des bâtiments"
+      }
+    ]
+  },
+  {
+    "name": "Services à Domicile",
+    "description": "Comprend les services domestiques et les aides à domicile",
+    "subcategories": [
+      {
+        "name": "Ménage et Nettoyage",
+        "description": "Services de nettoyage domestique régulier ou ponctuel"
+      },
+      {
+        "name": "Gardiennage et Sécurité",
+        "description": "Services de surveillance et de sécurité à domicile"
+      },
+      {
+        "name": "Entretien de Jardin",
+        "description": "Services d'entretien des espaces verts et des jardins"
+      },
+      {
+        "name": "Gestion des Déchets",
+        "description": "Collecte et gestion des déchets domestiques"
+      },
+      {
+        "name": "Réparation d'Appareils Électroménagers",
+        "description": "Réparation et entretien des appareils électroménagers"
+      },
+      {
+        "name": "Services de Repassage",
+        "description": "Services de repassage et de soins du linge"
+      },
+      {
+        "name": "Aide aux Courses",
+        "description": "Assistance aux courses et achats domestiques"
+      },
+      {
+        "name": "Assistance aux Personnes Âgées",
+        "description": "Soins et aide à domicile pour les personnes âgées"
+      },
+      {
+        "name": "Garde d'Enfants",
+        "description": "Services de garde d'enfants à domicile"
+      },
+      {
+        "name": "Assistance Informatique à Domicile",
+        "description": "Services d'assistance informatique et technologique à domicile"
+      }
+    ]
+  },
+  {
+    "name": "Services Professionnels",
+    "description": "Comprend une variété de services professionnels pour entreprises et particuliers",
+    "subcategories": [
+      {
+        "name": "Consultation Juridique",
+        "description": "Services de consultation juridique et assistance légale"
+      },
+      {
+        "name": "Comptabilité et Fiscalité",
+        "description": "Services de comptabilité, gestion fiscale et audits"
+      },
+      {
+        "name": "Services de Traduction",
+        "description": "Services de traduction de documents et d'interprétation"
+      },
+      {
+        "name": "Consultation en Ressources Humaines",
+        "description": "Services de conseil en recrutement, gestion des ressources humaines"
+      },
+      {
+        "name": "Marketing et Communication",
+        "description": "Services de stratégie marketing, publicité et communication"
+      },
+      {
+        "name": "Services Informatiques",
+        "description": "Services de maintenance, support informatique et développement logiciel"
+      },
+      {
+        "name": "Consultation en Management",
+        "description": "Services de conseil en gestion d'entreprise et stratégie"
+      },
+      {
+        "name": "Services de Formation Professionnelle",
+        "description": "Cours et formations professionnelles pour entreprises et particuliers"
+      },
+      {
+        "name": "Consultation en Finance",
+        "description": "Services de conseil financier, investissement et planification financière"
+      },
+      {
+        "name": "Audit et Conseil en Compliance",
+        "description": "Services d'audit interne, conformité réglementaire et conseils"
+      }
+    ]
+  },
+  {
+    "name": "Santé et Bien-être",
+    "description": "Comprend une variété de services pour la santé et le bien-être",
+    "subcategories": [
+      {
+        "name": "Médecine Générale",
+        "description": "Consultations et soins médicaux généraux"
+      },
+      {
+        "name": "Dentisterie",
+        "description": "Services dentaires, soins et traitements"
+      },
+      {
+        "name": "Optique",
+        "description": "Services d'optométrie, examens de la vue et lunetterie"
+      },
+      {
+        "name": "Services de Psychologie",
+        "description": "Consultations psychologiques et thérapies"
+      },
+      {
+        "name": "Nutrition et Diététique",
+        "description": "Conseils nutritionnels, plans alimentaires et diététiques"
+      },
+      {
+        "name": "Fitness et Entraînement",
+        "description": "Cours de fitness, coaching personnel et entraînement physique"
+      },
+      {
+        "name": "Bien-être Mental",
+        "description": "Services de soutien pour le bien-être émotionnel et mental"
+      },
+      {
+        "name": "Thérapies Alternatives",
+        "description": "Médecine alternative et thérapies complémentaires"
+      },
+      {
+        "name": "Soins de Santé Spécialisés",
+        "description": "Services de spécialistes médicaux et paramédicaux"
+      },
+      {
+        "name": "Soins de Beauté et Spa",
+        "description": "Soins esthétiques, spa et bien-être physique"
+      }
+    ]
+  },
+  {
+    "name": "Arts Créatifs et Médias",
+    "description": "Englobe une variété de domaines artistiques et médiatiques",
+    "subcategories": [
+      {
+        "name": "Photographie",
+        "description": "Services de photographie professionnelle et artistique"
+      },
+      {
+        "name": "Vidéo et Cinéma",
+        "description": "Production vidéo, montage et services cinématographiques"
+      },
+      {
+        "name": "Design Graphique",
+        "description": "Conception graphique, création de logos et branding"
+      },
+      {
+        "name": "Illustration et Animation",
+        "description": "Illustration artistique, animation et motion design"
+      },
+      {
+        "name": "Musique",
+        "description": "Cours de musique, production audio et enregistrements"
+      },
+      {
+        "name": "Arts Visuels",
+        "description": "Peinture, sculpture et autres arts visuels"
+      },
+      {
+        "name": "Théâtre et Spectacles",
+        "description": "Production théâtrale, spectacles et événements artistiques"
+      },
+      {
+        "name": "Écriture et Édition",
+        "description": "Services d'écriture, édition de texte et publication"
+      },
+      {
+        "name": "Artisanat et Fabrication",
+        "description": "Création d'objets d'artisanat, bijoux et articles faits main"
+      },
+      {
+        "name": "Arts Numériques",
+        "description": "Création artistique numérique, réalité virtuelle et jeux vidéo"
+      }
+    ]
+  },
+  {
+    "name": "Services Automobiles",
+    "description": "Englobe une variété de services liés aux véhicules",
+    "subcategories": [
+      {
+        "name": "Réparation Automobile",
+        "description": "Réparations mécaniques et électriques pour tous types de véhicules"
+      },
+      {
+        "name": "Entretien et Maintenance",
+        "description": "Services d'entretien régulier, vidanges et contrôles techniques"
+      },
+      {
+        "name": "Carrosserie et Peinture",
+        "description": "Réparations et peinture de carrosserie, débosselage"
+      },
+      {
+        "name": "Services de Pneumatiques",
+        "description": "Vente, montage et équilibrage de pneus, réparation crevaisons"
+      },
+      {
+        "name": "Diagnostic Automobile",
+        "description": "Tests de diagnostic électronique, analyse et réparation de pannes"
+      },
+      {
+        "name": "Nettoyage et Detailing",
+        "description": "Nettoyage intérieur et extérieur de véhicules, detailing professionnel"
+      },
+      {
+        "name": "Location de Véhicules",
+        "description": "Services de location de voitures et de véhicules utilitaires"
+      },
+      {
+        "name": "Accessoires et Tuning",
+        "description": "Vente et installation d'accessoires automobiles, tuning et customisation"
+      },
+      {
+        "name": "Dépannage et Remorquage",
+        "description": "Services de dépannage sur route, remorquage de véhicules"
+      },
+      {
+        "name": "Écoles de Conduite",
+        "description": "Cours de conduite automobile, permis de conduire et formations spécifiques"
+      }
+    ]
+  },
+  {
+    "name": "Jardinage et Aménagement Paysager",
+    "description": "Services liés à l'entretien et à la conception de jardins et espaces extérieurs",
+    "subcategories": [
+      {
+        "name": "Entretien de Jardin",
+        "description": "Services réguliers d'entretien de jardins, taille, tonte de pelouse"
+      },
+      {
+        "name": "Conception de Jardin",
+        "description": "Création de plans de jardin, aménagement floral et décoratif"
+      },
+      {
+        "name": "Arrosage et Irrigation",
+        "description": "Systèmes d'arrosage automatique, gestion de l'irrigation"
+      },
+      {
+        "name": "Taille d'Arbres et Arbustes",
+        "description": "Taille professionnelle d'arbres, haies et arbustes"
+      },
+      {
+        "name": "Aménagement de Terrasse",
+        "description": "Conception et aménagement de terrasses extérieures, mobilier de jardin"
+      },
+      {
+        "name": "Pose de Clôtures",
+        "description": "Installation de clôtures, palissades et barrières de jardin"
+      },
+      {
+        "name": "Entretien de Pelouse",
+        "description": "Services spécialisés d'engazonnement, scarification, traitement des mauvaises herbes"
+      },
+      {
+        "name": "Élagage d'Arbres",
+        "description": "Élagage et abattage sécurisé d'arbres, gestion des espaces verts"
+      },
+      {
+        "name": "Traitement des Plantes",
+        "description": "Protection phytosanitaire, traitement des maladies et parasites des plantes"
+      },
+      {
+        "name": "Aménagement de Piscine",
+        "description": "Construction et aménagement de piscines extérieures, entretien et nettoyage"
+      }
+    ]
+  },
+  {
+    "name": "Éducation et Tutorat",
+    "description": "Services liés à l'éducation, à l'enseignement et au tutorat",
+    "subcategories": [
+      {
+        "name": "Soutien Scolaire",
+        "description": "Cours de soutien scolaire pour les élèves du primaire et du secondaire"
+      },
+      {
+        "name": "Cours Particuliers",
+        "description": "Leçons individuelles pour des matières spécifiques ou des compétences particulières"
+      },
+      {
+        "name": "Préparation aux Examens",
+        "description": "Programmes de préparation aux examens nationaux et internationaux"
+      },
+      {
+        "name": "Cours de Langues",
+        "description": "Enseignement des langues étrangères pour tous les niveaux et tous les âges"
+      },
+      {
+        "name": "Formation Professionnelle",
+        "description": "Cours de développement des compétences et de formation professionnelle"
+      },
+      {
+        "name": "Musique et Arts",
+        "description": "Leçons de musique, cours d'arts plastiques, théâtre et danse"
+      },
+      {
+        "name": "Programmes Éducatifs Spécialisés",
+        "description": "Programmes éducatifs adaptés pour les besoins spécifiques des apprenants"
+      },
+      {
+        "name": "Tutorat en Ligne",
+        "description": "Services de tutorat et d'enseignement en ligne via des plateformes virtuelles"
+      },
+      {
+        "name": "Cours Universitaires",
+        "description": "Assistance et tutorat pour les cours universitaires et la préparation aux examens"
+      },
+      {
+        "name": "Cours Techniques",
+        "description": "Cours spécialisés dans les domaines techniques et scientifiques"
+      }
+    ]
+  },
+  {
+    "name": "Services Événementiels",
+    "description": "Services pour l'organisation d'événements et de célébrations",
+    "subcategories": [
+      {
+        "name": "Planification d'Événements",
+        "description": "Services de planification complète pour tous types d'événements"
+      },
+      {
+        "name": "Coordination de Mariages",
+        "description": "Services spécialisés dans la coordination et la planification de mariages"
+      },
+      {
+        "name": "Location de Salles",
+        "description": "Offres de location d'espaces pour événements privés et corporatifs"
+      },
+      {
+        "name": "Services de Traiteur",
+        "description": "Services de restauration et de traiteur pour événements de toutes tailles"
+      },
+      {
+        "name": "Décoration d'Événements",
+        "description": "Services de décoration personnalisée pour créer une atmosphère unique"
+      },
+      {
+        "name": "Animation et Divertissement",
+        "description": "Animations, spectacles et divertissements pour animer les événements"
+      },
+      {
+        "name": "Photographie et Vidéographie",
+        "description": "Services de photographie et de vidéographie pour capturer des moments spéciaux"
+      },
+      {
+        "name": "Son et Éclairage",
+        "description": "Services de location et de gestion du son et de l'éclairage"
+      },
+      {
+        "name": "Services de Transport",
+        "description": "Services de transport pour les invités et les participants aux événements"
+      },
+      {
+        "name": "Gestion Post-Événement",
+        "description": "Services de nettoyage et de gestion après la fin de l'événement"
+      }
+    ]
+  },
+  {
+    "name": "Finance et Comptabilité",
+    "description": "Services financiers et comptables pour particuliers et entreprises",
+    "subcategories": [
+      {
+        "name": "Gestion de Comptes",
+        "description": "Services de gestion des comptes personnels et d'entreprise"
+      },
+      {
+        "name": "Audit et Vérification",
+        "description": "Services d'audit et de vérification comptable"
+      },
+      {
+        "name": "Conseil Financier",
+        "description": "Services de conseil en gestion financière et stratégie d'investissement"
+      },
+      {
+        "name": "Comptabilité et Fiscalité",
+        "description": "Services de comptabilité et de préparation des déclarations fiscales"
+      },
+      {
+        "name": "Analyse Financière",
+        "description": "Services d'analyse et de gestion financière pour optimiser les performances"
+      },
+      {
+        "name": "Planification Financière",
+        "description": "Services de planification financière personnelle et d'entreprise"
+      },
+      {
+        "name": "Gestion de Trésorerie",
+        "description": "Services de gestion de trésorerie et de flux de trésorerie"
+      },
+      {
+        "name": "Services de Paie",
+        "description": "Services de gestion et de traitement de la paie"
+      },
+      {
+        "name": "Consultation en Fusion-Acquisition",
+        "description": "Services de consultation pour les transactions de fusion et acquisition"
+      },
+      {
+        "name": "Services de Crédit et Financement",
+        "description": "Services de consultation et de gestion des crédits et financements"
+      }
+    ]
+  },
+  {
+    "name": "Services Juridiques",
+    "description": "Services juridiques variés pour particuliers et entreprises",
+    "subcategories": [
+      {
+        "name": "Conseil Juridique",
+        "description": "Services de consultation juridique générale"
+      },
+      {
+        "name": "Droit des Affaires",
+        "description": "Services juridiques spécialisés en droit des affaires"
+      },
+      {
+        "name": "Droit de la Famille",
+        "description": "Services juridiques concernant le droit de la famille"
+      },
+      {
+        "name": "Droit Pénal",
+        "description": "Services juridiques en droit pénal"
+      },
+      {
+        "name": "Droit Immobilier",
+        "description": "Services juridiques en droit immobilier"
+      },
+      {
+        "name": "Droit du Travail",
+        "description": "Services juridiques en droit du travail et des ressources humaines"
+      },
+      {
+        "name": "Contentieux Civil",
+        "description": "Services juridiques concernant le contentieux civil"
+      },
+      {
+        "name": "Droit de la Propriété Intellectuelle",
+        "description": "Services juridiques en droit de la propriété intellectuelle"
+      },
+      {
+        "name": "Droit des Contrats",
+        "description": "Services juridiques spécialisés en rédaction et analyse de contrats"
+      },
+      {
+        "name": "Médiation et Arbitrage",
+        "description": "Services de médiation et d'arbitrage pour résolution de conflits"
+      }
+    ]
+  },
+  {
+    "name": "Services de Nettoyage",
+    "description": "Services professionnels de nettoyage pour particuliers et entreprises",
+    "subcategories": [
+      {
+        "name": "Nettoyage Résidentiel",
+        "description": "Nettoyage complet et régulier des maisons et appartements"
+      },
+      {
+        "name": "Nettoyage Commercial",
+        "description": "Nettoyage régulier des espaces de bureaux et commerces"
+      },
+      {
+        "name": "Nettoyage de Vitres",
+        "description": "Nettoyage professionnel de fenêtres et vitrines"
+      },
+      {
+        "name": "Nettoyage Après Déménagement",
+        "description": "Nettoyage en profondeur des espaces après un déménagement"
+      },
+      {
+        "name": "Nettoyage de Tapis et Moquettes",
+        "description": "Entretien et nettoyage spécialisé de tapis et moquettes"
+      },
+      {
+        "name": "Nettoyage de Conduits",
+        "description": "Nettoyage et entretien des systèmes de ventilation et conduits"
+      },
+      {
+        "name": "Nettoyage Industriel",
+        "description": "Nettoyage spécialisé pour les installations industrielles"
+      },
+      {
+        "name": "Nettoyage de Voitures",
+        "description": "Nettoyage intérieur et extérieur de véhicules"
+      },
+      {
+        "name": "Nettoyage de Fin de Chantier",
+        "description": "Nettoyage complet après travaux de construction ou rénovation"
+      },
+      {
+        "name": "Nettoyage de Parties Communes",
+        "description": "Entretien et nettoyage des parties communes des immeubles"
+      }
+    ]
+  },
+  {
+    "name": "Hospitalité et Restauration",
+    "description": "Services variés pour l'hospitalité, les événements et la restauration",
+    "subcategories": [
+      {
+        "name": "Services de Restauration",
+        "description": "Préparation et service de repas pour événements privés et d'entreprise"
+      },
+      {
+        "name": "Services Traiteur",
+        "description": "Fourniture de repas et de services traiteur pour événements"
+      },
+      {
+        "name": "Services d'Hébergement",
+        "description": "Gestion et entretien d'établissements d'hébergement comme hôtels et maisons d'hôtes"
+      },
+      {
+        "name": "Services Événementiels",
+        "description": "Planification et organisation d'événements spéciaux"
+      },
+      {
+        "name": "Services de Conciergerie",
+        "description": "Services personnalisés pour répondre aux besoins des clients dans les établissements d'hébergement"
+      },
+      {
+        "name": "Services de Nettoyage Hôtelier",
+        "description": "Nettoyage et entretien des chambres et espaces communs dans les établissements d'hébergement"
+      },
+      {
+        "name": "Services de Gestion d'Événements",
+        "description": "Coordination et gestion complète des événements corporatifs et sociaux"
+      },
+      {
+        "name": "Services de Bar et Boissons",
+        "description": "Fourniture de services de bar et de boissons pour événements"
+      },
+      {
+        "name": "Services de Personnel de Salle",
+        "description": "Fourniture de personnel pour le service en salle lors d'événements et de repas"
+      },
+      {
+        "name": "Services de Formation en Restauration",
+        "description": "Formation du personnel dans le domaine de la restauration et de l'hospitalité"
+      }
+    ]
+  },
+  {
+    "name": "Beauté et Soins Personnels",
+    "description": "Services et produits pour le bien-être et la beauté personnelle",
+    "subcategories": [
+      {
+        "name": "Coiffure",
+        "description": "Services de coupe, coiffage et traitement des cheveux"
+      },
+      {
+        "name": "Esthétique",
+        "description": "Soins de la peau, épilation et traitements esthétiques"
+      },
+      {
+        "name": "Manucure et Pédicure",
+        "description": "Soins des ongles des mains et des pieds"
+      },
+      {
+        "name": "Maquillage",
+        "description": "Services de maquillage pour différentes occasions"
+      },
+      {
+        "name": "Massage et Bien-être",
+        "description": "Massages relaxants et thérapeutiques, ainsi que services de bien-être"
+      },
+      {
+        "name": "Cosmétiques et Produits de Soins",
+        "description": "Vente de produits cosmétiques et de soins personnels"
+      },
+      {
+        "name": "Soins Capillaires",
+        "description": "Produits et traitements pour la santé et la beauté des cheveux"
+      },
+      {
+        "name": "Consultation en Image",
+        "description": "Conseils en stylisme et relooking personnel"
+      },
+      {
+        "name": "Soins du Corps",
+        "description": "Soins corporels et traitements pour la détente et le rajeunissement"
+      },
+      {
+        "name": "Extensions de Cils et Sourcils",
+        "description": "Extensions de cils et de sourcils pour un regard accentué"
+      }
+    ]
+  },
+  {
+    "name": "Fitness et Sports",
+    "description": "Activités physiques et sports pour la santé et le bien-être",
+    "subcategories": [
+      {
+        "name": "Gymnases et Fitness",
+        "description": "Centres de fitness, entraînement personnel et cours collectifs"
+      },
+      {
+        "name": "Yoga et Pilates",
+        "description": "Cours de yoga et pilates pour la flexibilité et la relaxation"
+      },
+      {
+        "name": "Entraînement Personnel",
+        "description": "Services d'entraînement individuel pour la forme physique"
+      },
+      {
+        "name": "Sports Collectifs",
+        "description": "Équipes et clubs pour sports collectifs comme le football, le basket-ball, etc."
+      },
+      {
+        "name": "Danse",
+        "description": "Cours de danse pour la forme physique et l'expression artistique"
+      },
+      {
+        "name": "Boxe et Arts Martiaux",
+        "description": "Entraînement en boxe, arts martiaux et self-défense"
+      },
+      {
+        "name": "Cours de Natation",
+        "description": "Leçons et cours de natation pour tous les niveaux"
+      },
+      {
+        "name": "Courses à Pied et Marathons",
+        "description": "Événements et groupes pour les amateurs de courses à pied"
+      },
+      {
+        "name": "Sports Extrêmes",
+        "description": "Activités et sports extrêmes comme le parachutisme, le surf, etc."
+      },
+      {
+        "name": "Escalade et Randonnée",
+        "description": "Excursions, escalade et randonnées pour les amateurs de plein air"
+      }
+    ]
+  },
+  {
+    "name": "Transport et Logistique",
+    "description": "Services de transport et solutions logistiques pour entreprises et particuliers",
+    "subcategories": [
+      {
+        "name": "Livraison Rapide",
+        "description": "Services de livraison rapide pour colis et courrier express"
+      },
+      {
+        "name": "Déménagement",
+        "description": "Services de déménagement local et national"
+      },
+      {
+        "name": "Transport de Marchandises",
+        "description": "Logistique et transport de marchandises par route, air, mer ou rail"
+      },
+      {
+        "name": "Services de Taxi et VTC",
+        "description": "Transport privé et professionnel avec services de taxi et VTC"
+      },
+      {
+        "name": "Logistique Internationale",
+        "description": "Solutions logistiques pour le transport international de marchandises"
+      },
+      {
+        "name": "Services de Navette",
+        "description": "Navettes aéroport, services de transport de passagers réguliers"
+      },
+      {
+        "name": "Services de Messagerie",
+        "description": "Livraison de documents et colis par services de messagerie"
+      },
+      {
+        "name": "Location de Véhicules",
+        "description": "Location de voitures, camions et autres véhicules pour particuliers et entreprises"
+      },
+      {
+        "name": "Entreposage et Stockage",
+        "description": "Services d'entreposage sécurisé et gestion de stock pour entreprises"
+      },
+      {
+        "name": "Service de Courrier",
+        "description": "Services de collecte, tri et distribution de courrier postal"
+      }
+    ]
+  },{
+    "name": "Services pour Animaux de Compagnie",
+    "description": "Services variés pour le bien-être et les soins des animaux domestiques",
+    "subcategories": [
+      {
+        "name": "Toilettage",
+        "description": "Toilettage et soins esthétiques pour chiens, chats et autres animaux de compagnie"
+      },
+      {
+        "name": "Promenade de Chiens",
+        "description": "Services de promenade régulière et exercice pour chiens"
+      },
+      {
+        "name": "Garde d'Animaux",
+        "description": "Service de garde à domicile ou en pension pour animaux de compagnie"
+      },
+      {
+        "name": "Formation d'Animaux",
+        "description": "Cours et sessions de formation pour chiens, chats et autres animaux"
+      },
+      {
+        "name": "Services Vétérinaires",
+        "description": "Consultations vétérinaires, vaccinations et soins médicaux pour animaux"
+      },
+      {
+        "name": "Alimentation et Nutrition",
+        "description": "Conseils et vente de produits alimentaires adaptés à la santé des animaux"
+      },
+      {
+        "name": "Boutique d'Accessoires",
+        "description": "Vente d'accessoires, jouets et équipements pour animaux de compagnie"
+      },
+      {
+        "name": "Transport d'Animaux",
+        "description": "Services de transport sûr et confortable pour animaux domestiques"
+      },
+      {
+        "name": "Services de Comportement",
+        "description": "Analyse et correction des problèmes de comportement chez les animaux"
+      },
+      {
+        "name": "Soins Médicaux Spécialisés",
+        "description": "Services spécialisés pour les soins de santé des animaux, y compris les soins palliatifs"
+      }
+    ]
+  },{
+    "name": "Support de Vente au Détail",
+    "description": "Services de soutien aux ventes et à la gestion des points de vente",
+    "subcategories": [
+      {
+        "name": "Conseil en Vente",
+        "description": "Conseils personnalisés pour améliorer les techniques de vente et la gestion de la relation client"
+      },
+      {
+        "name": "Merchandising",
+        "description": "Optimisation de la présentation des produits en magasin pour attirer les clients et augmenter les ventes"
+      },
+      {
+        "name": "Gestion de Stock",
+        "description": "Optimisation et gestion efficace des niveaux de stock pour répondre à la demande et minimiser les coûts"
+      },
+      {
+        "name": "Formation en Service Client",
+        "description": "Formations pour améliorer les compétences en service client et la satisfaction des clients"
+      },
+      {
+        "name": "Analyse de Marché",
+        "description": "Études et analyses pour comprendre le marché et les tendances de consommation"
+      },
+      {
+        "name": "Stratégie de Prix",
+        "description": "Développement et ajustement des stratégies de prix pour maximiser la rentabilité et la compétitivité"
+      },
+      {
+        "name": "Événements de Vente",
+        "description": "Organisation d'événements spéciaux et promotionnels pour stimuler les ventes et fidéliser la clientèle"
+      },
+      {
+        "name": "Support de Point de Vente",
+        "description": "Installation et maintenance des équipements de point de vente (POS) et assistance technique"
+      },
+      {
+        "name": "Marketing Digital",
+        "description": "Stratégies et campagnes de marketing en ligne pour augmenter la visibilité et les ventes"
+      },
+      {
+        "name": "Service Après-Vente",
+        "description": "Assistance et support pour résoudre les problèmes après l'achat, assurant la satisfaction client"
+      }
+    ]
+  }    
+]
